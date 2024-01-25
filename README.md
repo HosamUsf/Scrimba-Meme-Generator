@@ -8,6 +8,3 @@ Module 3 of Scrimba React course (https://scrimba.com/learn/learnreact)
 * Conditional rendering
 * Forms
 * Side effects
-
-## Deploy
-Deployed at https://scrimba-03-meme-generator.netlify.app/
